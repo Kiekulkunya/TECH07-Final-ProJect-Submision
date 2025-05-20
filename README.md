@@ -9,6 +9,7 @@ Solo Final Project by Kiris (Kulkunya) Prayarach
 ## **Project Title:**
 
 **Advanced Data Science for Global Food Supply Chains & Agentic AI Weather Alert System Prototype** (Beta version)
+https://preview--global-food-ai-mindflow.lovable.app/
 
 ## **Business Intuitions:**
 
