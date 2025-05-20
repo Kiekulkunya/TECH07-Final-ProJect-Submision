@@ -151,102 +151,51 @@ file:///D:/Kie/KIE%20Personal/Learning%20Course/Stanford%20University/AI/TECH%20
 ### **Executed Full-Stake Data Science operations for storytelling:**
 
 UI Interface for Head/Tail/Info/describe
-
-[Head Tail.mp4](attachment:ba08b940-f4f5-4a77-903d-875752f93c99:Head_Tail.mp4)
-
 UI Interface for Pandas-Selection and Filtering Data
-
-[Filter data.mp4](attachment:3af863bf-1f58-4ca9-98d1-130e4cf34569:Filter_data.mp4)
-
 UI interface for Ascending and Descending 
-
-[Sorting.mp4](attachment:43cfd868-5589-4c8f-ab61-4310940f06b7:Sorting.mp4)
-
 UI interface for Selecting
-
-[Selection.mp4](attachment:e337c924-0916-4c67-ab90-e762da6292e0:Selection.mp4)
-
 UI Interface for Label Base Index
-
-[Indexing.mp4](attachment:63e4bcdc-fd91-4ba6-9f56-d3ebc5796029:Indexing.mp4)
-
 UI Interface for Grouping and Aggregation
-
-[Grouping Aggregation.mp4](attachment:6d982813-6f81-4566-91a4-e9b8fd5d2b42:Grouping_Aggregation.mp4)
-
 UI Interface for Index Analytics
-
-![UI Interface Index Analytics.png](attachment:0b695bdb-310b-4b6c-be0d-a27faf5e74fb:UI_Interface_Index_Analytics.png)
-
 UI Interface for Group Mean, Min, Max, Std
 
-![UI Groping Mean Min Max Std.png](attachment:e1e8078a-5473-4809-a935-7238b8a1d86b:UI_Groping_Mean_Min_Max_Std.png)
-
 Render Pearson Correlation
-
-![Pearson Correlation.png](attachment:a90cb06d-ae6b-4e06-8247-e8beadfae447:Pearson_Correlation.png)
 
 ## **Task 2 : Full-Stake Data Science Visualization**
 
 Folium with UI widget Interface
 
-![Folium2.png](attachment:d234124c-46e8-47ec-9667-c4655c9e2c60:Folium2.png)
-
 3D scatter plot
-
-[3D Plot.mp4](attachment:5f1bf7fe-f93e-4f51-87be-4dc35fe607b9:3D_Plot.mp4)
 
 UI interface for verious plots (Barh, Box, Scatter, Replot, lmplot, Pairplot, Cat_bar, Cat_bar_norm 
 
-[Plotly Chart2.mp4](attachment:6d35a791-aed3-4d13-9de4-c7b5d1501a1c:Plotly_Chart2.mp4)
-
-![Replot.png](attachment:8ac288a5-03ea-4ef5-9208-2ca04188afe8:Replot.png)
-
-![Scatter Plot.png](attachment:af5ddf11-8a05-4375-98ba-192353a82398:Scatter_Plot.png)
 
 ## **Task 3: OLS, ML, DP Predictive Models for Food supplies**
 
 UI Widget Dropdown for selecting traditional OLS and XGboost, RF Predictive Crop Models by country with slider interface for scenario
 
-[OLS XGboost RF Basic.mp4](attachment:e0b48330-d274-4565-8eba-eab6085c35ea:OLS_XGboost_RF_Basic.mp4)
-
 Traditional OLS Predictive Model with Econometrics Diagnostic problems (Unit root, Heteroscedasticity, Autocorrelation)
-
-![Traditional OLS prediction.png](attachment:c49fed1a-4c01-4309-aed9-d4c706224d2d:Traditional_OLS_prediction.png)
-
- UI Widget dropdown for selecting OLS, Gxboost, or RF Classification prediction and Sliders for scenario analysis 
-
-[Classififcation Prediction.mp4](attachment:f4e92d95-aff2-4661-a1f5-9ff663964362:Classififcation_Prediction.mp4)
-
+UI Widget dropdown for selecting OLS, Gxboost, or RF Classification prediction and Sliders for scenario analysis 
 UI widget for Classification Prediction using XGboost, RF with Neural Nets and DP (ANN, RNN, CNN, and LSTM) and show stats
-
-[ML and DP prediction Clas.mp4](attachment:16054bad-51ec-408f-a461-670e3b4110b9:ML_and_DP_prediction_Clas.mp4)
-
 Applied Anomaly Detection for over supply or shortage products by Product
 
-[Anomaly.mp4](attachment:795e5a11-b120-46fc-bb30-c0561fcd12a7:Anomaly.mp4)
 
 ## **Task 4 : LLM-based PCA and Word Coside Analysis - using primary data plus Social media -X(Tweets) for free-form analysis**
 
 @mentions, hastag counts from X about global food supply chains
 
-![Tweets.png](attachment:eeceee63-bc4c-4234-90c6-ab2ea6e667cb:Tweets.png)
-
 Top-10 key words from X about food supplies
 
-![Top Ten Keywords from X.png](attachment:659c043b-3814-4b32-9eaf-7aa10cafc39e:Top_Ten_Keywords_from_X.png)
 
 Render Dynamic PCA with tensorflow url
 
-[Tensorflow.mp4](attachment:06323897-6fc7-47f3-96a4-68542e4e63c2:Tensorflow.mp4)
+
 
 Render React word Coside Analysis
 
-[Word Coside.mp4](attachment:448f2d29-f626-4db3-a11f-7c6673ce18bc:Word_Coside.mp4)
 
 Hugging Face for X(tweets) Sentiment Analytics on Social Media Posted 
 
-![Food sentiment.png](attachment:e5f8a81d-12af-468f-83f7-05ef2d9e7533:Food_sentiment.png)
 
 ## **Task 5 : NLP prediction**
 
@@ -256,13 +205,12 @@ Promt <> “Global food supply chains will …”
 
 Basic Bigram NLP on blue and GPT-2 on Pink Color
 
-![NLP word Prediction.png](attachment:8bb678d0-3209-49ff-bfac-a929ba79d3b3:NLP_word_Prediction.png)
+
 
 ## **Task 6: Scalable AI Semantic Search Implementations**
 
 Exploring GPU (Cuda) vs CPU battlefiled on embedding and encoders/decoders (GPU is impressive super fast for finishing executing by 470 ms while CPU spent 400 seconds  
 
-![GPU.png](attachment:e469c5e9-24ce-408e-964d-e0cb7d9e5d39:GPU.png)
 
 **Deployed LLM-Based Semantic Search for TripAdvisor Restaurant Reviews** 
 
@@ -270,11 +218,9 @@ A/B Testing using without plain Semantic Search (A Model) and LLM RAG-integratin
 
 Queries “
 
-![A_B Queries.png](attachment:a14abb5e-b117-4829-8e2b-a8354476bed3:A_B_Queries.png)
 
 A Model obtained 3 Scores from 10 for its correct answers 😢
 
-![A wo RAG Score2.png](attachment:e99be3c0-52ef-4c95-90aa-b2e2daf7f491:A_wo_RAG_Score2.png)
 
 B Model (RAG and API) Semantic Search Obtained perfect score (10/10) 🏆
 
@@ -284,17 +230,12 @@ Robustness testing using P-Value of Statistics different between A/B results
 
 **The winner is B model - RAG Semantic Search with outstanding performance at statistically significant level.** 
 
-![A_B Testing.png](attachment:16374e5d-8adb-4c9f-9d68-5bc94187dfe1:A_B_Testing.png)
-
-![AB testing Robustness.png](attachment:9392cf67-75de-4ed0-8a7c-c5f1d562d3ca:AB_testing_Robustness.png)
 
 Render Front-end RAG with API Semantic Search with Gradio Interface on TripAdvisor Restaurant Reviews
 
-[RAG Gradio.mp4](attachment:09de9a8b-8e62-4be6-86d4-da60b5b124d6:RAG_Gradio.mp4)
 
 Exploring Chunking on Gradio. The outcomes are the same!!! 
 
-[Chunking Gradio.mp4](attachment:3bdf33c0-6262-4e79-a430-04d7326180d7:Chunking_Gradio.mp4)
 
 **II. From Data Science to Real-World Impact — Launching Mini Agentic AI for Proactive Decision Support**
 
@@ -302,11 +243,9 @@ Exploring Chunking on Gradio. The outcomes are the same!!!
 
 Deployed Real-Time Weather API Forecasting for main crop producer countries
 
-![Weather forecast.png](attachment:16b3d166-a9b6-41fc-8eba-7cd32e4daee0:Weather_forecast.png)
 
 Executed Mini Agentic AI for Data Science in Agriculture Sector in Forecasting over or shortage food supplies globally by auto sending Alert email 
 
-[Agentic AI for Agri Alert.mp4](attachment:26b0968c-c755-44cf-bd82-58d6a99937f2:Agentic_AI_for_Agri_Alert.mp4)
 
 ## **🏛️🛡️Addressing Ethical Risks & Mitigating AI Hallucinations**
 
@@ -347,8 +286,46 @@ This project exemplifies how advanced Data Science techniques integrated with Ap
 Ultimately, innovation lies not just in the technology itself, but in how we responsibly apply it to solve global challenges with precision, clarity, and purpose.
 
 ## **Mission Accomplished**
+![data preparation -Clearning and drop missing](https://github.com/user-attachments/assets/3f91e8ed-d1cc-4510-b02f-be04bb3adfa5)
+![DataFrame Operation sample](https://github.com/user-attachments/assets/882ce312-6e40-464f-b126-84cd9d14c01f)
+![DataFrame Operation Column Selection](https://github.com/user-attachments/assets/b5c446f9-6f0d-4e0f-bbca-8d500cf5c206)
+![UI Interface Index Analytics](https://github.com/user-attachments/assets/4545426b-88e3-41b0-9d57-4b815a70cb20)
+![UI Query Selection ](https://github.com/user-attachments/assets/10cbf6f0-be4a-497f-a601-d58dd0d111ab)
+![UI Interface Label Base Index](https://github.com/user-attachments/assets/e392e82e-a7fa-46f0-b4d9-2bcd2f968b99)
+![UI Interface ascending and decending ](https://github.com/user-attachments/assets/0362f637-398f-4656-a09f-7296e04992b8)
+![UI Groping Mean Min Max Std](https://github.com/user-attachments/assets/eea7a929-ffd5-4709-9a3b-ece1dea3566f)
+![Anomaly Detection for Shortage and over Surplus by product ](https://github.com/user-attachments/assets/23f536c0-4df9-4d56-8c42-9a7dd4de4eda)
+![Pearson Correlation](https://github.com/user-attachments/assets/6512a217-5622-4ce0-bebb-063d2df32970)
+![XGboost Prediction](https://github.com/user-attachments/assets/29a64a90-d1f1-43fa-bfed-ef31b0ae04f8)
+![Slider Adjustment](https://github.com/user-attachments/assets/05a6b801-b602-4a67-890c-4891172b7cef)
+![Traditional OLS prediction](https://github.com/user-attachments/assets/01b7ee5a-b24f-432f-b443-25b143069b8a)
+![Traditional OLS prediction2](https://github.com/user-attachments/assets/07cc49f0-dc3e-47f8-8d4a-a386ee96fcb2)
+![Random Forest Prediction by Country](https://github.com/user-attachments/assets/082a553d-4d92-4dd7-a3e4-cff12117d1e9)
+![Scenario Prediction for next 10 YR ML](https://github.com/user-attachments/assets/8520e7b3-b05f-400d-b101-b091593e0c07)
+![Class Prediction ML and NN](https://github.com/user-attachments/assets/7b60a3a6-7833-4138-876d-0d5b65dc656e)
+![Tweets](https://github.com/user-attachments/assets/ffdb97d5-f41a-46be-a274-5745859b6278)
+![HF Sentiment Anlaysis](https://github.com/user-attachments/assets/1cfb12ba-30c8-4ace-86fe-36510d9d1038)
+![Basic Bigram vs Advanced NLP for next 100 w preduction](https://github.com/user-attachments/assets/de4bfed9-6ae4-40db-a8a9-874bd9ea6331)
+![PCA 2D](https://github.com/user-attachments/assets/aa2a5493-7796-44cd-817a-237886612bc1)
+![Dynamic 3D PCA](https://github.com/user-attachments/assets/c5581c09-342c-444e-81e4-9a12d3ba8edd)
+![Word Cosine Distance](https://github.com/user-attachments/assets/1ba2e5e1-4cc6-49b1-b424-2618b9e4aa58)
+![RAG LLM with Gradio ai](https://github.com/user-attachments/assets/084d9c3b-e6d2-4f18-8115-a89ff8f2671a)
+![Folium2](https://github.com/user-attachments/assets/64b7a3c9-ec74-4b33-8e99-4da38f8420dc)
+![Scatter Plot](https://github.com/user-attachments/assets/ce014d87-62a7-490f-82a3-85dd02a33c07)
+![Replot](https://github.com/user-attachments/assets/4db7bac3-cc22-4dad-84b7-df4e8d61272b)
+![Cat_plot](https://github.com/user-attachments/assets/e421736f-7e5f-4b72-998a-4c9a9778cb97)
+![Food sentiment](https://github.com/user-attachments/assets/cb5bf344-0faa-446f-8630-724744b2d2ae)
+![NLP word Prediction](https://github.com/user-attachments/assets/cee1e20c-8fe0-4873-8d49-af0bf117d9cb)
+![GPU](https://github.com/user-attachments/assets/97d62b62-a64a-4c3b-b7ad-7dd70948b87a)
+![Agentic AI](https://github.com/user-attachments/assets/36c6e4ae-ea23-496b-9ebe-f553f044ab04)
+![Sent mail](https://github.com/user-attachments/assets/060af35b-8690-4bb9-9ce7-437a3204e4a3)
+![email](https://github.com/user-attachments/assets/5f10a0d1-6818-4224-b268-3cfd2f8a8deb)
+![mindmap](https://github.com/user-attachments/assets/c761d954-c139-48c8-8837-be096d5e8bad)
+![pandas_filling](https://github.com/user-attachments/assets/8102bfb4-d8ea-4a9b-8ae6-296b7a2ddb04)
+![AB testing Robustness](https://github.com/user-attachments/assets/af60f72f-0dc8-427d-b059-b78f7a9bf24e)
+![A_B Queries](https://github.com/user-attachments/assets/4d8f40ba-cd1a-404c-84e6-bea096c8d535)
+![Weather forecast](https://github.com/user-attachments/assets/8fb06ea8-4f61-4ee9-8180-43802f3f4c1e)
 
-![Shibasit.png](attachment:a1ddc391-26c1-4bf8-a3d3-b5daff9a53f4:Shibasit.png)
 
 **Data Reference:**
 
