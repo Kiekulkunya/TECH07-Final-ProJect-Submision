@@ -367,9 +367,14 @@ https://colab.research.google.com/drive/16fNtqWPSkIE7kSBFnEkPbAg4Nd-NqWdm?usp=sh
 
 https://github.com/Kiekulkunya/TECH103_Airline_Analytics_Final_Project
 
-### Colab Jupyter Files:
+### Colab File:
 
 [TECH07_Advanced_DS_and_AI_in_Global_Food_Supplies_(Beta)_Final_Kiris.ipynb](attachment:534ab4a7-bffd-4232-9858-f6107a116a63:TECH07_Advanced_DS_and_AI_in_Global_Food_Supplies_(Beta)_Final_Kiris.ipynb)
+
+### Agentic AI n8n:
+
+[Agentic_AI_Foods_weather_Alert.json](attachment:8ed02452-9eb2-45a5-a9b2-486014a527ee:Agentic_AI_Foods_weather_Alert.json)
+
 
 **Deliverables:**
 ✅ Full-Stake of Data Science and applied AI in, Data Preparation, EDA, Visualization
@@ -387,3 +392,7 @@ https://github.com/Kiekulkunya/TECH103_Airline_Analytics_Final_Project
 ✅ Ethical and Responsible for Innovation and technology adoption
 
 ✅ Strong Creativity & Ambition
+
+Google Sheet for Agentic AI
+
+https://docs.google.com/spreadsheets/d/1G-rP0xyjF1JLtJDZwNe6FeOTSnzs5EekLNeiFnpvgVE/edit?usp=sharing
