@@ -368,6 +368,7 @@ https://colab.research.google.com/drive/16fNtqWPSkIE7kSBFnEkPbAg4Nd-NqWdm?usp=sh
 https://github.com/Kiekulkunya/TECH07-Final-Project-Submision_Kiris
 
 ### Colab File:
+https://colab.research.google.com/drive/16fNtqWPSkIE7kSBFnEkPbAg4Nd-NqWdm?usp=sharing
 
 [TECH07_Advanced_DS_and_AI_in_Global_Food_Supplies_(Beta)_Final_Kiris.ipynb](attachment:534ab4a7-bffd-4232-9858-f6107a116a63:TECH07_Advanced_DS_and_AI_in_Global_Food_Supplies_(Beta)_Final_Kiris.ipynb)
 
