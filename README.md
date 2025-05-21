@@ -365,7 +365,7 @@ https://colab.research.google.com/drive/16fNtqWPSkIE7kSBFnEkPbAg4Nd-NqWdm?usp=sh
 
 ### Github:
 
-https://github.com/Kiekulkunya/TECH103_Airline_Analytics_Final_Project
+https://github.com/Kiekulkunya/TECH07-Final-Project-Submision_Kiris
 
 ### Colab File:
 
