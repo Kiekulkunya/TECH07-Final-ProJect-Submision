@@ -396,3 +396,8 @@ https://github.com/Kiekulkunya/TECH103_Airline_Analytics_Final_Project
 Google Sheet for Agentic AI
 
 https://docs.google.com/spreadsheets/d/1G-rP0xyjF1JLtJDZwNe6FeOTSnzs5EekLNeiFnpvgVE/edit?usp=sharing
+
+
+YouTube ▶️
+
+https://www.youtube.com/watch?v=KxUSty2z9HE
